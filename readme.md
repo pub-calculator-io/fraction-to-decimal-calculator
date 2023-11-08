@@ -12,9 +12,8 @@ The fraction to decimal calculator allows the user to convert fractions to decim
 3. Activate the [Fraction to Decimal Calculator](https://www.calculator.io/fraction-to-decimal-calculator/ "Fraction to Decimal Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_fraction_to_decimal_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Fraction to Decimal Calculator to the sidebar through the `Appearance -> Widgets -> Fraction to Decimal Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_fraction_to_decimal_calculator(); ?>` to your template where you would like the Fraction to Decimal Calculator to appear.
+* Add the shortcode `[ci_fraction_to_decimal_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_fraction_to_decimal_calculator(); ?>` to your template where you would like the Fraction to Decimal Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/

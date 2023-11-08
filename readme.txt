@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Fraction to Decimal Calculator](https://www.calculator.io/fraction-to-decimal-calculator/ "Fraction to Decimal Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_fraction_to_decimal_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Fraction to Decimal Calculator to the sidebar through the `Appearance -> Widgets -> Fraction to Decimal Calculator` menu in WordPress.
+* Add the shortcode `[ci_fraction_to_decimal_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_fraction_to_decimal_calculator(); ?>` to your template where you would like the Fraction to Decimal Calculator to appear.
 
 == Screenshots ==
