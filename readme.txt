@@ -13,6 +13,8 @@ The fraction to decimal calculator allows the user to convert fractions to decim
 
 The fraction to decimal calculator allows the user to convert fractions to decimal points while specifying the rounding options.
 
+[Fraction to Decimal Calculator Homepage](https://www.calculator.io/fraction-to-decimal-calculator/ "Fraction to Decimal Calculator Homepage")
+
 __Shortcode__
 
 Use the Fraction to Decimal Calculator shortcode:
