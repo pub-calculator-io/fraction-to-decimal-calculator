@@ -1,4 +1,4 @@
-# Fraction to Decimal Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Fraction to Decimal Calculator Widget for WordPress
 
 The fraction to decimal calculator allows the user to convert fractions to decimal points while specifying the rounding options.
 
