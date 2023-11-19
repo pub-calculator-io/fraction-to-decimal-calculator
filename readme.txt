@@ -1,4 +1,4 @@
-=== Fraction to Decimal Calculator by www.calculator.io ===
+=== CI Fraction to decimal calculator ===
 Contributors: calculatorio
 Tags: fraction to decimal, fraction to decimal conversion, convert fraction to decimal, decimal conversion, fraction to decimal calculator, decimal calculator, fraction conversion, fraction decimal conversion, decimal equivalent, fraction notation to decimal
 Requires at least: 5.0

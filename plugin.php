@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Fraction to Decimal Calculator by www.calculator.io
+Plugin Name: CI Fraction to decimal calculator
 Plugin URI: https://www.calculator.io/fraction-to-decimal-calculator/
 Description: The fraction to decimal calculator allows the user to convert fractions to decimal points while specifying the rounding options.
 Version: 1.0.0
