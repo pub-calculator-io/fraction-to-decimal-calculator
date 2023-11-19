@@ -7,7 +7,7 @@ The fraction to decimal calculator allows the user to convert fractions to decim
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/fraction-to-decimal-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /fraction-to-decimal-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Fraction to Decimal Calculator](https://www.calculator.io/fraction-to-decimal-calculator/ "Fraction to Decimal Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
