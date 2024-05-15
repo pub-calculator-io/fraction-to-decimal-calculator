@@ -3,7 +3,6 @@
 The fraction to decimal calculator allows the user to convert fractions to decimal points while specifying the rounding options.
 
 ![Fraction to Decimal Calculator Input Form](/assets/images/screenshot-1.png "Fraction to Decimal Calculator Input Form")
-![Fraction to Decimal Calculator Calculation Results](/assets/images/screenshot-2.png "Fraction to Decimal Calculator Calculation Results")
 
 ## Installation
 
